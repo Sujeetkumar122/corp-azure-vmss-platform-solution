@@ -39,3 +39,7 @@ corp-azure-vmss-platform-solution/
 - **Dynamic Iterations**: Built exclusively with `for_each` over `map(object({...}))`.
 - **Zero-Trust Security**: Key Vault configured with soft-delete retention, purge protection, and RBAC authorization.
 
+
+## SLA & Disaster Recovery
+- High Availability SLA: 99.95% uptime with multi-instance VMSS.
+- Automated scaling and health probe failover.
