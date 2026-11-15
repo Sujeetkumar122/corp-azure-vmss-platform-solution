@@ -43,3 +43,7 @@ corp-azure-vmss-platform-solution/
 ## SLA & Disaster Recovery
 - High Availability SLA: 99.95% uptime with multi-instance VMSS.
 - Automated scaling and health probe failover.
+
+## Compliance & Governance Audit
+- Architecture verified against CIS Microsoft Azure Foundations Benchmark.
+- Security guardrails validated with automated policies.
